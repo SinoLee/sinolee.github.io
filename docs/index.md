@@ -4,10 +4,12 @@
 
 - 무료 개발자 자료 : https://freestuff.dev/
 
+- 깃랩 CI/CD 튜토리얼 : https://velog.io/@wickedev/Gitlab-CICD-튜토리얼-bljzphditt
 
+- Markdown Editor : https://github.com/msk-apps/msk-markdown
 
-
-
+## iOS universal static library
+- [iOS universal static library](https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=jh_ynwis&logNo=80205409046)
 
 You can use the [editor on GitHub](https://github.com/SinoLee/sinolee.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
